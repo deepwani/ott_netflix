@@ -1,5 +1,5 @@
 // And here is the API
-let api_key = " -- Enter your API key -- ";
+let api_key = "7235dcf4d2b83c037ead7315d7488dcd";
 
 // The data coming from the API
 let img_url = "https://image.tmdb.org/t/p/w500";
